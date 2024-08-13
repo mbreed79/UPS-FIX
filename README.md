@@ -18,7 +18,7 @@ Getting this apart without breaking any tabs was a challenge<br/>
 <img src="https://i.imgur.com/k285b3u.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-just a piece of extra BCB from manufacturing. This is going back together!  <br/>
+just a piece of extra PCB from manufacturing. This is going back together!  <br/>
 <img src="https://i.imgur.com/nm4EymN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
